@@ -1,0 +1,22 @@
+h1 {
+	color:royalblue;
+	font-size: 40px;
+}
+
+p {
+	font-size: 20px;
+	color: gray;
+}
+
+a {
+	text-decoration: none;
+}
+
+.redcolor {
+	color: red;
+}
+
+#halfsize {
+	width: 50%;
+	height: auto;
+}
