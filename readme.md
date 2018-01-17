@@ -1,5 +1,5 @@
-# Title of Project 
-(About / Introduction / What is this repository about?)
+# Vivixx Code Camp
+Here is where I put all my files
 
 ## Experience
 (Your overall experience in building the project)
